@@ -7,7 +7,6 @@ Frontend developer from Serbia who occasionally touches backend (and doesn't bre
 - **Stormio** – AI spatial brainstorming tool with real-time collaboration (React, WebSockets, tldraw)
 - **DoodlePal** – Platform that brings kids' drawings to life with AI animation (Next.js, Canvas API, Kling AI)
 - **Mafia Party Game** – React Native app for playing Mafia with friends (Firebase real-time)
-- **QR Attendance** – Full-stack attendance tracking (Next.js, Supabase, SSR)
 
 ## Tech stack
 
